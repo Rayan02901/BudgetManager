@@ -1,0 +1,4 @@
+Income,1000
+Expense,Expenses of First,50,False
+Expense,Expenses Must,100,False
+Expense,Expense MustMust,100,True

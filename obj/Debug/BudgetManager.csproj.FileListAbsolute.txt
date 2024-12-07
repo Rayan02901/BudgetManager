@@ -1,0 +1,10 @@
+F:\Sujan\BudgetManager\obj\Debug\BudgetManager.csproj.AssemblyReference.cache
+F:\Sujan\BudgetManager\obj\Debug\BudgetManager.Form1.resources
+F:\Sujan\BudgetManager\obj\Debug\BudgetManager.Properties.Resources.resources
+F:\Sujan\BudgetManager\obj\Debug\BudgetManager.csproj.GenerateResource.cache
+F:\Sujan\BudgetManager\obj\Debug\BudgetManager.csproj.CoreCompileInputs.cache
+F:\Sujan\BudgetManager\bin\Debug\BudgetManager.exe.config
+F:\Sujan\BudgetManager\bin\Debug\BudgetManager.exe
+F:\Sujan\BudgetManager\bin\Debug\BudgetManager.pdb
+F:\Sujan\BudgetManager\obj\Debug\BudgetManager.exe
+F:\Sujan\BudgetManager\obj\Debug\BudgetManager.pdb
